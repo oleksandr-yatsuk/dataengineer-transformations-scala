@@ -98,12 +98,14 @@ project/plugins/project/
 
 # User-specific stuff
 .idea
+.bsp
 
 # File-based project format
 *.iws
 
 # IntelliJ
 out/
+output_int
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
